@@ -6,3 +6,5 @@ Repositório apenas para download da aplicação offline em Java.
 Informações detalhadas sobre o uso encontram-se no manual.
 
 Basta realizar o download desse repositório para baixar a aplicação.
+
+Baseada no LEDI v4.0.1.
